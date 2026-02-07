@@ -1,10 +1,10 @@
 import { useState, useEffect } from 'react'
 import MIMO from '../assets/mimopython.png'
 import ISC2 from '../assets/isc2-candidate.png'
-import ITC from '../assets/ITC.png'
-import IMA from '../assets/IMA.png'
-import CHB from '../assets/CHB.png'
-import NFC from '../assets/NFC.png'
+import ITC from '../assets/itc.png'
+import IMA from '../assets/ima.png'
+import CHB from '../assets/chb.png'
+import NFC from '../assets/nfc.png'
 
 function Certifications() {
   const [activeCert, setActiveCert] = useState(null)
