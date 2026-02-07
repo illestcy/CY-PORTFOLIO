@@ -1,5 +1,5 @@
 import datamatics from '../assets/datamatics.png'
-import taskus from '../assets/TaskUs.webp'
+import taskus from '../assets/taskus.webp'
 
 function Experience() {
   const experiences = [
