@@ -1,4 +1,4 @@
-import image from '../assets/NOHIKAWGRAY.jpg'
+import image from '../assets/nohikawgray.jpg'
 
 
 
